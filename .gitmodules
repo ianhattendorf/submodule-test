@@ -1,6 +1,3 @@
 [submodule "dummy-repo-123"]
 	path = dummy-repo-123
 	url = https://github.com/ianhattendorf/dummy-repo-123.git
-[submodule "dummy-repo-123-3"]
-	path = dummy-repo-123-3
-	url = https://github.com/ianhattendorf/dummy-repo-123
