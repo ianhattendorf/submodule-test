@@ -1,3 +1,6 @@
 [submodule "dummy-repo-123"]
 	path = dummy-repo-123
 	url = https://github.com/ianhattendorf/dummy-repo-123.git
+[submodule "nodegit"]
+	path = nodegit
+	url = https://github.com/nodegit/nodegit
